@@ -1,0 +1,7 @@
+category-id-name    category
+product-id-name-quantity category-id    product
+
+select name, quantity from product order by quantity desc limit by 1
+
+fizz buzz fizzbuzz no
+
